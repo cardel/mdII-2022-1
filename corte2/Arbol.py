@@ -1,6 +1,3 @@
-from this import s
-
-
 class Arbol:
     def __init__(self,key,left,right):
         self.key = key
